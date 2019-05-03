@@ -1,6 +1,3 @@
----
-published: true
----
 ## Welcome to GitHub Pages
 
 {% for post in site.posts %}
