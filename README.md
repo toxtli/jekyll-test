@@ -2,7 +2,7 @@
 
 ok
 
-{% include_relative test.html %}
+{% include_relative demo.html %}
 
 {% for post in site.posts %}
 {{ post.title }}
