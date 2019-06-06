@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+ok
+
+{% include_relative test.html %}
+
 {% for post in site.posts %}
 {{ post.title }}
 {% endfor %}
